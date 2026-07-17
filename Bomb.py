@@ -37,7 +37,7 @@ with open ('City.csv') as f:
 #for each row in CSV it creates a new list 
     for row in readCSV:
         rowlist = []
-#for each value in the rows of the CSV it appends the interger
+#for each value in the rows of the CSV it appends the integer
         for value in row:
 #            print(float(value))
             rowlist.append(int(value))
