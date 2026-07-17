@@ -27,7 +27,7 @@ bacteria = []
 #create an empty list to append the environment to 
 environment = []
 
-#create an empty list to append append the bacteria that have hit the ground to
+#create an empty list to append the bacteria that have hit the ground to
 fallen = []
 
 #create the environment
